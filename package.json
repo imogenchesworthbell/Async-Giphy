@@ -1,0 +1,23 @@
+{
+  "name": "async-giphy",
+  "version": "1.0.0",
+  "description": "Who doesn't love a good gif?   ![](https://media.giphy.com/media/cJMlR1SsCSkUjVY3iK/giphy.gif)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MultiverseLearningProducts/Async-Giphy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MultiverseLearningProducts/Async-Giphy/issues"
+  },
+  "homepage": "https://github.com/MultiverseLearningProducts/Async-Giphy#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3"
+  }
+}
